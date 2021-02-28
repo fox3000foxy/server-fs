@@ -1,5 +1,5 @@
 {
-  "name": "flying-squid",
+  "name": "flying-server",
   "description": "A minecraft server written in node.js",
   "version": "1.4.0",
   "main": "index.js",
@@ -62,7 +62,7 @@
     "url": "http://github.com/PrismarineJS/flying-squid/issues"
   },
   "devDependencies": {
-    "flying-squid": "file:.",
+    "flying-squid": "^latest",
     "jest": "^26.0.1",
     "longjohn": "^0.2.12",
     "minecraft-wrap": "^1.2.3",
